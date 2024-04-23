@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "courseName": "HTML",
+        "ratings": "4.9",
+        "image": "/images/htmllogo.png",
+        "status": true
+    },
+    {
+        "id": 2,
+        "courseName": "CSS",
+        "ratings": "4.9",
+        "image": "/images/htmllogo.png",
+        "status": true
+
+    },
+    {
+        "id": 3,
+        "courseName": "JS",
+        "ratings": "4.9",
+        "image": "/images/htmllogo.png",
+        "status": true
+
+    },
+    {
+        "id": 4,
+        "courseName": "REACT",
+        "ratings": "4.9",
+        "image": "/images/htmllogo.png",
+        "status": true
+
+    },
+    {
+        "id": 5,
+        "courseName": "ANGULAR",
+        "ratings": "4.9",
+        "image": "/images/htmllogo.png",
+        "status": true
+
+    },
+    {
+        "id": 6,
+        "courseName": "HTML",
+        "ratings": "4.9",
+        "image": "/images/htmllogo.png",
+        "status": true
+
+    },
+    {
+        "id": 7,
+        "courseName": "HTML",
+        "ratings": "4.9",
+        "image": "/images/htmllogo.png",
+        "status": true
+
+    },
+    {
+        "id": 8,
+        "courseName": "HTML",
+        "ratings": "4.9",
+        "image": "/images/htmllogo.png",
+        "status": true
+
+    }
+]
